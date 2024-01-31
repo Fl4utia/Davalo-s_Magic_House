@@ -9,8 +9,6 @@ In the context of the demographic transition toward an aging population, SafeSpa
 The project methodology covers both hardware and software development, utilizing tools such as Python, SolidWorks, and Arduino IDE. The results include a functional prototype with early risk detection systems, facial recognition, home automation, and remote monitoring. Operational feasibility is supported by the creation of suitable infrastructure and the use of resources such as ESP32, sensors, and actuators.
 
 Check out more about this project in our [demo video](https://youtu.be/ADH4FWjCIjY), where we walk through the features and demonstrate how to use the application.
-![Image 1](img/0102f253-8c04-4f34-a3da-0da35a73e2c0.jpg)
-
 <div style="text-align:center">
   <img src="img/0102f253-8c04-4f34-a3da-0da35a73e2c0.jpg" alt="Image 1" width="400"/>
 </div>
