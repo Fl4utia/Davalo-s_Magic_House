@@ -4,6 +4,7 @@ This project addresses the critical challenge of the well-being of the growing e
 <div style="text-align:center">
   <img src="img/66a699b7-2c9d-4e9a-bf40-69a95207e83d.jpg" alt="Image 2" width="400"/>
 </div>
+
 In the context of the demographic transition toward an aging population, SafeSpace aims to improve the quality of life for older adults by offering independence, security, and peace of mind to their families. The technical feasibility of the project is supported by the use of computational technologies and the implementation of hardware such as NodeMCU ESP32, sensors, and actuators. From an economic perspective, the smart home security market shows significant growth, supporting the financial viability of the project.
 
 The project methodology covers both hardware and software development, utilizing tools such as Python, SolidWorks, and Arduino IDE. The results include a functional prototype with early risk detection systems, facial recognition, home automation, and remote monitoring. Operational feasibility is supported by the creation of suitable infrastructure and the use of resources such as ESP32, sensors, and actuators.
